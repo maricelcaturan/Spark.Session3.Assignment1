@@ -1,0 +1,5 @@
+1. What is RDD? This a data structure of spark call Resilient distributed dataset. This is immutable distibuted collection of obects. 
+2. Define Partitions. Division into parts.
+3. What operations does RDD support? Transformation and actions
+4. What do you understand by Transformations in Spark? It creates new distributed dataset
+5. Define Actions. Operation from RDD and return a value or result.
